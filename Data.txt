@@ -1,0 +1,34 @@
+--Finally Reached--
+fs.readFile("read.txt","utf-8",(err,data)=>
+{
+    console.log("Content : "+data);
+    console.log("Error : "+err);
+})
+
+--Finally Reached--
+fs.readFile("read.txt","utf-8",(err,data)=>
+{
+    console.log("Content : "+data);
+    console.log("Error : "+err);
+})
+
+--Finally Reached--
+fs.readFile("read.txt","utf-8",(err,data)=>
+{
+    console.log("Content : "+data);
+    console.log("Error : "+err);
+})
+
+--Finally Reached--
+fs.readFile("read.txt","utf-8",(err,data)=>
+{
+    console.log("Content : "+data);
+    console.log("Error : "+err);
+})
+
+--Finally Reached--
+fs.readFile("read.txt","utf-8",(err,data)=>
+{
+    console.log("Content : "+data);
+    console.log("Error : "+err);
+})
